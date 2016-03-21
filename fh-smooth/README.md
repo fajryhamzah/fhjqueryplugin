@@ -10,7 +10,7 @@ $(".classname").fhsmooth();
 ```
 
 <br>
-You also can change the duration of transistion(Default : 1000). <br>
+You also can change the duration of transition(Default : 1000). <br>
 ```
 $(".classname").fhsmooth({duration: 5000}); //duration 5s
 ```
