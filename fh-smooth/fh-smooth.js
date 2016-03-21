@@ -14,7 +14,7 @@ $.fn.fhsmooth = function(options){
   var target = $(this).attr("href");
   size += $(target).position().top;
 
-  $("body").animate({
+  $("html,body").animate({
       scrollTop: size
     },setting.duration); 
 
