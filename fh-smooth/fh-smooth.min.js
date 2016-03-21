@@ -1,5 +1,5 @@
 /*!
- * fh-smooth v1.0.0 (http://www.fajryhamzah.com)
+ * fh-smooth version 1.0.0 (http://www.fajryhamzah.com)
  * Copyright 2016
  * Licensed under the MIT license
  */
