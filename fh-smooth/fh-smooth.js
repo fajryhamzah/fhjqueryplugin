@@ -12,6 +12,7 @@ $.fn.fhsmooth = function(options){
   $(this).click(function(e){
   e.preventDefault();
   var target = $(this).attr("href");
+  if(target == "#") target = "body";
   size = $(target).position().top;
 
   $("html,body").animate({
